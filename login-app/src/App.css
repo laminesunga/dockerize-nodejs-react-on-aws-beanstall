@@ -1,0 +1,58 @@
+
+
+
+
+.App {
+  background-color: rgb(56, 51, 102);
+}
+
+.Auth-form-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100vw;
+  height: 100vh;
+}
+
+.Auth-form {
+  width: 520px;
+  box-shadow: rgb(0 0 0 / 16%) 1px 1px 10px;
+  padding-top: 30px;
+  padding-bottom: 20px;
+  border-radius: 8px;
+  background-color: white;
+}
+
+.Auth-form-content {
+  padding-left: 12%;
+  padding-right: 12%;
+}
+
+.Auth-form-title {
+  text-align: center;
+  margin-bottom: 1em;
+  font-size: 24px;
+  color: rgb(34, 34, 34);
+  font-weight: 800;
+}
+
+label {
+  font-size: 14px;
+  font-weight: 600;
+  color: rgb(34, 34, 34);
+}
+
+.nav-bar-2{
+  background-color: rgb(219, 221, 230);
+}
+.nav-bar-1{
+  background-color: rgb(84, 37, 158);
+}
+
+.NavDropdown{
+  
+}
+.table{
+  width: 50%;
+  
+}
